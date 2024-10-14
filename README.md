@@ -9,6 +9,7 @@ In this README file, the codes and repositories used for this project are shortl
 ## Datasets used
 
 The original LEGO Dataset (single bricks): https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset
+
 The original LEGO Dataset (piles of bricks): https://www.kaggle.com/datasets/ronanpickell/b100-lego-detection-dataset
 
 ## Scripts
